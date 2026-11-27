@@ -1,0 +1,10 @@
+id,theme,route,normal,hand_ss,deck_ss,extra_ss,grave_ss,banish_ss,board,source,detail
+R1,Ryzeal,stop,1,0,1,0,0,0,2,round2,Normal Ice; SS Sword from deck; search Ext; stop
+R2,Ryzeal,compact,1,0,1,1,0,0,1,round2,Same then Xyz Detonator
+R3,Ryzeal,extended,1,2,1,2,0,0,3,round2,Same then Ext from hand; Duo Drive; Node from hand; Detonator; Cross
+D1,Dracotail,pass,1,0,0,0,0,0,1,round2,Normal Mululu; pass
+D2,Dracotail,one_fusion,1,0,0,1,0,0,3,round2,Normal Mululu; fusion Gulamel; set 2 traps
+D3,Dracotail,two_fusions,1,0,0,2,0,0,5,round2,Same then Rahu fusion Arthalion; set third trap; additional hand required
+M1,Maliss,initial,1,0,0,0,0,1,3,WCS2025_Luka,Normal Dormouse; banish White Rabbit from deck; Rabbit SS from banishment; set MTP-07
+M2,Maliss,link2_revive,1,0,0,1,1,1,3,WCS2025_Luka,Same then Link Splash Mage with both; revive Dormouse from GY; stop (partial route)
+X1,Hypothetical,long,1,3,2,4,2,1,3,synthetic,12 SS events; illustrative only

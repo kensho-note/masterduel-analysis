@@ -1,0 +1,10 @@
+﻿id,theme,route,G,F,P,N,board,G_end_net,F_end_net,P_end_net,N_end_net
+R1,Ryzeal,stop,1,1,1,0,2,0,0,0,-1
+R2,Ryzeal,compact,2,2,1,0,1,1,1,0,-1
+R3,Ryzeal,extended,5,3,3,0,3,4,2,2,-1
+D1,Dracotail,pass,0,0,1,0,1,-1,-1,0,-1
+D2,Dracotail,one_fusion,1,1,1,0,3,0,0,0,-1
+D3,Dracotail,two_fusions,2,2,1,0,5,1,1,0,-1
+M1,Maliss,initial,1,0,1,1,3,0,-1,0,0
+M2,Maliss,link2_revive,3,1,1,2,3,2,0,0,1
+X1,Hypothetical,long,12,6,4,3,3,11,4,3,2
