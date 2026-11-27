@@ -1,0 +1,13 @@
+profiles=3 groups=3 MC trajectories=9,000,000 exact marginal rows=99 sensitivity rows=2112 max error=0.10245 pp
+R2 Sword search 30.532 38.953 8.420 12.121
+R2 Duo search 30.532 53.476 22.944 33.028
+R2 after Sword search 8.333 11.111 2.778 3.030
+R2 5 monsters incl normal 8.333 19.444 11.111 12.121
+R3 Sword search 32.152 40.907 8.755 12.903
+R3 Duo search 32.152 55.850 23.698 34.928
+R3 after Sword search 8.824 11.765 2.941 3.226
+R3 5 monsters incl normal 8.824 20.588 11.765 12.903
+D2 Sword search 16.639 24.217 7.578 9.091
+D2 Duo search 16.639 37.968 21.329 25.587
+D2 after Sword search 11.261 16.639 5.378 6.061
+D2 5 monsters incl normal 0.000 0.000 0.000 0.000

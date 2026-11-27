@@ -1,0 +1,5 @@
+gate,going_second_route,draws,eligible_group,condition,non_claim
+Sword search,Normal Ice then Deck SS Sword,1,ash_veiler,G already resolved; Sword search triggers after summon and draw; no prior use or negation,Negating the search does not remove Sword or prove the entire turn stops
+Duo search,Normal Ice then SS Sword Ext and Duo Drive,3,ash_veiler,Earlier route succeeded; opponent activates Duo search; G remains applied,Earlier effects and alternate lines not modeled
+After Sword search,Sword search resolved,1,droll,Droll may be used after opponent adds card; G still applied until Droll resolves,Droll also stops own future G draws; separate marginal result not additive
+5 monsters incl normal,Normal Ice then SS Sword Ext Duo Node,4,nibiru,Main phase; five monsters summoned; Nibiru effect not otherwise blocked,Tributes own board too; availability does not imply beneficial activation
