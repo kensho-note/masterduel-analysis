@@ -1,0 +1,6 @@
+hand trials 4000000 strategy grid 3600 route rows 24 candidate rows 24
+0 p 0.0 p_mc 0.0 q 0.0 pre-full -5.0 pre-wait -5.0
+1 p 7.9521 p_mc 7.9842 q 4.3354 pre-full -1.4216 pre-wait -3.8072
+2 p 15.0016 p_mc 15.0071 q 8.3132 pre-full 1.7507 pre-wait -2.7498
+3 p 21.3392 p_mc 21.3566 q 11.8421 pre-full 4.6026 pre-wait -1.7991
+checks passed

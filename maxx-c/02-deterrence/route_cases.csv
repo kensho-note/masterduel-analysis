@@ -1,0 +1,7 @@
+case,year,policy,draws,hand_condition,route,endpoint
+Ryzeal,2025,stop,1,Ice in hand; Sword and Ext in deck,Normal Ice -> activate Ice to SS Sword -> search Ext -> stop,Ice and Sword; Ext in hand
+Ryzeal,2025,compact,2,Ice in hand; Sword and Ext in deck,Normal Ice -> SS Sword -> search Ext -> Xyz Detonator with Ice and Sword,Detonator with 2 materials; Ext in hand
+Ryzeal,2025,extended,5,Ice in hand; Sword Ext Node Cross available,Normal Ice -> SS Sword -> search Ext -> SS Ext sending spare Detonator -> Xyz Duo Drive with Ice and Sword -> attach sent Detonator -> detach Ice and Sword search Node and Cross -> SS Node -> Xyz Detonator with Ext and Node -> attach from GY -> activate Cross,Duo Drive and Detonator and Cross
+Dracotail,2026,compact,0,Mululu Urgula in hand; Horn and Flame in deck,Normal Mululu -> pass; opponent main phase fusion with Urgula if legal,Mululu on field; fusion and monster negate available next turn conditionally
+Dracotail,2026,intermediate,1,Mululu Urgula in hand; Horn and Flame in deck,Normal Mululu -> fuse Mululu and Urgula into Gulamel -> set Horn and Flame,Gulamel plus 2 traps; remaining hand retained
+Dracotail,2026,extended,2,Mululu Urgula Rahu and another monster in hand; Pan in deck,Normal Mululu -> fuse Mululu and Urgula into Gulamel -> set Horn and Flame -> Rahu fuse another monster from hand and Pan from deck into Arthalion -> set Sting,Gulamel and Arthalion plus 3 traps
